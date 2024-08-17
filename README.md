@@ -2,10 +2,10 @@
 This project showcases an image gallery built using HTML, CSS, and JavaScript as part of my CodeAlpha internship. The gallery features responsive design, lightbox image viewing, and navigation through previous/next buttons.
 
 # Features
-Responsive Design: The layout adjusts for different screen sizes.
-Lightbox View: Users can click on an image to view it in a lightbox.
-Navigation: Users can navigate through images using previous/next buttons in the lightbox.
-Smooth Transitions: Hover effects and image transitions for an improved user experience.
+- Responsive Design: The layout adjusts for different screen sizes.
+- Lightbox View: Users can click on an image to view it in a lightbox.
+- Navigation: Users can navigate through images using previous/next buttons in the lightbox.
+- Smooth Transitions: Hover effects and image transitions for an improved user experience.
 
 # Installation
 To run this project locally:
